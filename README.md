@@ -2,10 +2,10 @@
 
 > *"This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster;*
 > *an elegant weapon for a more civilized age."*
-> — Obi-Wan Kenobi
+> -- Obi-Wan Kenobi
 
 > *"The street finds its own uses for things."*
-> — William Gibson
+> -- William Gibson
 
 ---
 
@@ -33,11 +33,11 @@ It is, in the tradition of the Jedi, a weapon I built with my own hands. When I 
 
 But we aren't monks in robes. We're cyberpunks in the glow of multiple monitors at 2 AM, jacked into systems that span the planet. So this lightsaber hums with a frequency the Old Republic never imagined:
 
-- **🔧 Configurations** — The crystal at the core. Editor settings, shell configs, keybindings. The resonance frequency of how I think, translated into how the machine responds.
-- **⚡ Scripts & Automations** — The emitter matrix. Workflows that turn intention into action with minimal friction. The difference between swinging a blade and *cutting*.
-- **🧠 AI Integrations** — The cortical jack. Patterns for working *with* intelligence, not surrendering to it. Devs should be reviewing EVERY change of potential consequence, regardless of whether an AI wrote it. The cortical jack amplifies the hand. It doesn't replace it.
-- **🛡️ Standards & Patterns** — The discipline. Linting rules, commit conventions, architectural decisions. The forms and katas that keep the blade from cutting its wielder.
-- **🔬 Experiments** — The workshop. Half-forged ideas, prototypes, things that glow but don't yet cut. It breaks when I experiment. It stabilizes when I learn. That's the point.
+- **🔧 Configurations.** The crystal at the core. Editor settings, shell configs, keybindings. The resonance frequency of how I think, translated into how the machine responds.
+- **⚡ Scripts & Automations.** The emitter matrix. Workflows that turn intention into action with minimal friction. The difference between swinging a blade and *cutting*.
+- **🧠 AI Integrations.** The cortical jack. Patterns for working *with* intelligence, not surrendering to it. Devs should be reviewing EVERY change of potential consequence, regardless of whether an AI wrote it. The cortical jack amplifies the hand. It doesn't replace it.
+- **🛡️ Standards & Patterns.** The discipline. Linting rules, commit conventions, architectural decisions. The forms and katas that keep the blade from cutting its wielder.
+- **🔬 Experiments.** The workshop. Half-forged ideas, prototypes, things that glow but don't yet cut. It breaks when I experiment. It stabilizes when I learn. That's the point.
 
 ## The Cyberpunk Addendum
 

@@ -9,7 +9,8 @@ lightsaber/
 ├── README.md        manifesto
 ├── ARCHITECTURE.md  this file
 ├── experiments/     half-forged ideas, prototypes, things that glow but don't yet cut
-└── ideas/           things I want to write, build, or think about
+├── ideas/           things I want to write, build, or think about
+└── lore/            canonical Star Wars lore on lightsabers and the Jedi, used to ground the project
 ```
 
 That's it for now. The repo grows when something earns a place in it, not before.
@@ -26,6 +27,7 @@ That's it for now. The repo grows when something earns a place in it, not before
 |--------|---------|
 | `experiments/` | Prototypes, half-baked notions, design candidates, anything I'm trying out |
 | `ideas/` | Things I want to write, build, or think about. Not yet started. |
+| `lore/` | Knowledge base of canonical Star Wars lore on lightsabers, the Jedi, and the construction of both. Grounds the project's metaphor. Source material for the council agents. |
 | `configs/` | (when it exists) Shell, editor, dotfiles, system configs |
 | `scripts/` | (when it exists) Workflows, automations, utility scripts |
 | `ai/` | (when it exists) Agent profiles, prompts, AI integration patterns |

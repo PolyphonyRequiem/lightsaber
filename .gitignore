@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+vendor/
+.venv/
+__pycache__/
+
+# Build artifacts
+dist/
+build/
+*.o
+*.exe
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor state (the lightsaber is the config, not the cache)
+.vscode/.history
+*.swp
+*.swo
+*~
+
+# Secrets (never commit the kyber crystal's true name)
+.env
+.env.local
+*.key
+*.pem
+credentials.*
+
+# Logs
+*.log
+logs/

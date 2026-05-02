@@ -8,6 +8,7 @@ The README is the manifesto. This is the map.
 lightsaber/
 ├── README.md        manifesto
 ├── ARCHITECTURE.md  this file
+├── council/         minutes from convenings of the council (the personas live in ~/.copilot/agents/)
 ├── experiments/     half-forged ideas, prototypes, things that glow but don't yet cut
 ├── ideas/           things I want to write, build, or think about
 └── lore/            canonical Star Wars lore on lightsabers and the Jedi, used to ground the project
@@ -25,6 +26,7 @@ That's it for now. The repo grows when something earns a place in it, not before
 
 | Folder | Belongs |
 |--------|---------|
+| `council/` | Minutes from formal convenings of the council. Each file captures the question and each member's response. The personas themselves live in `~/.copilot/agents/`. |
 | `experiments/` | Prototypes, half-baked notions, design candidates, anything I'm trying out |
 | `ideas/` | Things I want to write, build, or think about. Not yet started. |
 | `lore/` | Knowledge base of canonical Star Wars lore on lightsabers, the Jedi, and the construction of both. Grounds the project's metaphor. Source material for the council agents. |
